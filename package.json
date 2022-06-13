@@ -1,0 +1,28 @@
+{
+  "name": "sumi_node",
+  "version": "1.0.0",
+  "description": "This is backend of blog",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paraslamsong/sumi_node.git"
+  },
+  "keywords": [
+    "sumi",
+    "phuyal",
+    "blog"
+  ],
+  "author": "Paras Rai",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/paraslamsong/sumi_node/issues"
+  },
+  "homepage": "https://github.com/paraslamsong/sumi_node#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "serverless-http": "^3.0.1"
+  }
+}
